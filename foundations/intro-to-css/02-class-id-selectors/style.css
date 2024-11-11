@@ -1,0 +1,17 @@
+p
+{
+    background-color: lightpink;
+    font-style: "Verdana" "DejaVu Sans"  "sans-serif";
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+div ,p{
+    font-size: 24px;
+}
+.new-class{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
